@@ -11,13 +11,13 @@ exit
 fi
 
 cat << EOF
-┌──────────────────────────────────────────────────────────────────────┐
-│This Bash Script is made by u/Techno021 to nuke snaps from Ubuntu.    │
-│                                                                      │
-│Note: This has only been tested on Ubuntu 20.04 LTS, and may not work │
-│as intended on other versions. I will not be responsible for any      │
-│damage if this script breaks your pc                                  │
-└──────────────────────────────────────────────────────────────────────┘
+┌────────────────────────────────────────────────────────────────────────┐
+│This Bash Script is made by Carbon Matrix to nuke snaps from Ubuntu.    │
+│                                                                        │
+│Note: This has only been tested on Ubuntu 20.04 LTS, and may not work   │
+│as intended on other versions. I will not be responsible for any        │
+│damage if this script breaks your pc                                    │
+└────────────────────────────────────────────────────────────────────────┘
 EOF
 
 while true; do

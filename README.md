@@ -16,7 +16,7 @@ the packages are more up to date. This is also what Ubuntu uses as a baseline to
 
 ## Run the script
 ```bash
-git clone https://github.com/grobo021/snap-nuke/
+git clone https://github.com/the-carbon-matrix/snap-nuke/
 cd snap-nuke
 ./snap-nuke.sh
 ```
@@ -26,7 +26,6 @@ This repository is under the [unlicense](LICENSE.txt) license. You are free to u
 but we are NOT providing any warranty that the script wont break the system. You have been warned.
 
 ## Todo
-- [ ] Ubuntu 18.04 LTS Support
 - [x] Ubuntu 20.04 LTS Support
 - [ ] Ubuntu Server 20.04 LTS Support
 - [ ] Fix GUI store removal
